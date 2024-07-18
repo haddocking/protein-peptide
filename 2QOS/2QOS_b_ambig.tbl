@@ -348,6 +348,31 @@ assign (resi 72 and segid A)
        (resi 11 and segid B)
 ) 2.0 2.0 0.0
 
+assign (resi 74 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+        or
+       (resi 4 and segid B)
+        or
+       (resi 5 and segid B)
+        or
+       (resi 6 and segid B)
+        or
+       (resi 7 and segid B)
+        or
+       (resi 8 and segid B)
+        or
+       (resi 9 and segid B)
+        or
+       (resi 10 and segid B)
+        or
+       (resi 11 and segid B)
+) 2.0 2.0 0.0
+
 assign (resi 85 and segid A)
 (
        (resi 1 and segid B)
@@ -499,6 +524,31 @@ assign (resi 118 and segid A)
 ) 2.0 2.0 0.0
 
 assign (resi 120 and segid A)
+(
+       (resi 1 and segid B)
+        or
+       (resi 2 and segid B)
+        or
+       (resi 3 and segid B)
+        or
+       (resi 4 and segid B)
+        or
+       (resi 5 and segid B)
+        or
+       (resi 6 and segid B)
+        or
+       (resi 7 and segid B)
+        or
+       (resi 8 and segid B)
+        or
+       (resi 9 and segid B)
+        or
+       (resi 10 and segid B)
+        or
+       (resi 11 and segid B)
+) 2.0 2.0 0.0
+
+assign (resi 122 and segid A)
 (
        (resi 1 and segid B)
         or
