@@ -15,8 +15,8 @@ This is an extension of the PeptiDB benchmark published by London N. et al.
 DOI: [10.1016/j.str.2009.11.012](https://www.ncbi.nlm.nih.gov/pubmed/20159464)
 
 The dataset contains:
-- 99 protein-peptide bound complexes (list in bound-complexes.list)
+- 98 protein-peptide bound complexes (list in bound-complexes.list)
 - 60 receptor unbound forms (list in unbound-complexes.list)
-- 99 peptide unbound forms
+- 98 peptide unbound forms
 
 
