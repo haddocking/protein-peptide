@@ -16,7 +16,7 @@ DOI: [10.1016/j.str.2009.11.012](https://www.ncbi.nlm.nih.gov/pubmed/20159464)
 
 The dataset contains:
 - 98 protein-peptide bound complexes (list in bound-complexes.list)
-- 60 receptor unbound forms (list in unbound-complexes.list)
+- 59 receptor unbound forms (list in unbound-complexes.list)
 - 98 peptide unbound forms
 
 
