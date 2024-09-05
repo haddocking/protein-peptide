@@ -1,0 +1,590 @@
+#
+# 1AWR
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1AWR/1AWR_target.pdb
+#
+# 1CKA
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1CKA/1CKA_target.pdb
+#
+# 1CZY
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1CZY/1CZY_target.pdb
+#
+# 1D4T
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1D4T/1D4T_target.pdb
+#
+# 1DDV
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1DDV/1DDV_target.pdb
+#
+# 1EG4
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1EG4/1EG4_target.pdb
+#
+# 1ER8
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1ER8/1ER8_target.pdb
+#
+# 1HC9
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1HC9/1HC9_target.pdb
+#
+# 1JD5
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1JD5/1JD5_target.pdb
+#
+# 1JWG
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1JWG/1JWG_target.pdb
+#
+# 1KL3
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1KL3/1KL3_target.pdb
+#
+# 1KLU
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1KLU/1KLU_target.pdb
+#
+# 1LVM
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1LVM/1LVM_target.pdb
+#
+# 1MFG
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1MFG/1MFG_target.pdb
+#
+# 1N7F
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1N7F/1N7F_target.pdb
+#
+# 1NQ7
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1NQ7/1NQ7_target.pdb
+#
+# 1NVR
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1NVR/1NVR_target.pdb
+#
+# 1NX1
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1NX1/1NX1_target.pdb
+#
+# 1OAI
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1OAI/1OAI_target.pdb
+#
+# 1OU8
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1OU8/1OU8_target.pdb
+#
+# 1PZ5
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1PZ5/1PZ5_target.pdb
+#
+# 1RXZ
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1RXZ/1RXZ_target.pdb
+#
+# 1SE0
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1SE0/1SE0_target.pdb
+#
+# 1SFI
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1SFI/1SFI_target.pdb
+#
+# 1T4F
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1T4F/1T4F_target.pdb
+#
+# 1T7R
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1T7R/1T7R_target.pdb
+#
+# 1TP5
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1TP5/1TP5_target.pdb
+#
+# 1TW6
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1TW6/1TW6_target.pdb
+#
+# 1VZQ
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1VZQ/1VZQ_target.pdb
+#
+# 1W9E
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1W9E/1W9E_target.pdb
+#
+# 1X2R
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1X2R/1X2R_target.pdb
+#
+# 1YWO
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/1YWO/1YWO_target.pdb
+#
+# 2A3I
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2A3I/2A3I_target.pdb
+#
+# 2AK5
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2AK5/2AK5_target.pdb
+#
+# 2B9H
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2B9H/2B9H_target.pdb
+#
+# 2C3I
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2C3I/2C3I_target.pdb
+#
+# 2CCH
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2CCH/2CCH_target.pdb
+#
+# 2DS8
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2DS8/2DS8_target.pdb
+#
+# 2FGR
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2FGR/2FGR_target.pdb
+#
+# 2FNT
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2FNT/2FNT_target.pdb
+#
+# 2FOJ
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2FOJ/2FOJ_target.pdb
+#
+# 2FVJ
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2FVJ/2FVJ_target.pdb
+#
+# 2H9M
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2H9M/2H9M_target.pdb
+#
+# 2HO2
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2HO2/2HO2_target.pdb
+#
+# 2HPL
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2HPL/2HPL_target.pdb
+#
+# 2IPU
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2IPU/2IPU_target.pdb
+#
+# 2J6F
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2J6F/2J6F_target.pdb
+#
+# 2O02
+/trinity/login/abonvin/protein-peptide/2O02/2O02_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2O02/2O02_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2O02/2O02_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2O02/2O02_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2O02/2O02_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2O02/2O02_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2O02/2O02_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2O02/2O02_target.pdb
+#
+# 2O4J
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2O4J/2O4J_target.pdb
+#
+# 2O9V
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2O9V/2O9V_target.pdb
+#
+# 2P1T
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2P1T/2P1T_target.pdb
+#
+# 2P54
+/trinity/login/abonvin/protein-peptide/2P54/2P54_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2P54/2P54_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2P54/2P54_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2P54/2P54_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2P54/2P54_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2P54/2P54_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2P54/2P54_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2P54/2P54_target.pdb
+#
+# 2PUY
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2PUY/2PUY_target.pdb
+#
+# 2QOS
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2QOS/2QOS_target.pdb
+#
+# 2R7G
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2R7G/2R7G_target.pdb
+#
+# 2VJ0
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2VJ0/2VJ0_target.pdb
+#
+# 2ZJD
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/2ZJD/2ZJD_target.pdb
+#
+# 3D1E
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/3D1E/3D1E_target.pdb
+#
+# 3D9T
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_r_u_1.pdb
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_r_u_2.pdb
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_r_u_3.pdb
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_l_u_1.pdb
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_l_u_2.pdb
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_l_u_3.pdb
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_u_ambig.tbl
+/trinity/login/abonvin/protein-peptide/3D9T/3D9T_target.pdb
