@@ -19,4 +19,7 @@ The dataset contains:
 - 59 receptor unbound forms (list in unbound-complexes.list)
 - 98 peptide unbound forms
 
+The restraints to guide the docking are based on:
+- protein binding site as active (defined with a 5A cutoff)
+- peptide defined as fully passive
 
